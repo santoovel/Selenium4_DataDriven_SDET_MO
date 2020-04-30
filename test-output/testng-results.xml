@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99060" started-at="2020-03-09T04:33:59Z" finished-at="2020-03-09T04:35:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99060" started-at="2020-03-09T04:33:59Z" finished-at="2020-03-09T04:35:38Z">
+      <class name="DataDrivenTestMO.OrangeHRMLoginDD">
+        <test-method status="PASS" signature="loginToWordPress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="loginToWordPress" duration-ms="26316" started-at="2020-03-09T10:04:00Z" data-provider="OrangeHrmData" finished-at="2020-03-09T10:04:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordPress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="tearDown" is-config="true" duration-ms="835" started-at="2020-03-09T10:04:27Z" finished-at="2020-03-09T10:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordPress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="loginToWordPress" duration-ms="23731" started-at="2020-03-09T10:04:27Z" data-provider="OrangeHrmData" finished-at="2020-03-09T10:04:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordPress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="tearDown" is-config="true" duration-ms="847" started-at="2020-03-09T10:04:51Z" finished-at="2020-03-09T10:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordPress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="loginToWordPress" duration-ms="21351" started-at="2020-03-09T10:04:52Z" data-provider="OrangeHrmData" finished-at="2020-03-09T10:05:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin2123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordPress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="tearDown" is-config="true" duration-ms="897" started-at="2020-03-09T10:05:13Z" finished-at="2020-03-09T10:05:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToWordPress(java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="loginToWordPress" duration-ms="22477" started-at="2020-03-09T10:05:14Z" data-provider="OrangeHrmData" finished-at="2020-03-09T10:05:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin12344]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToWordPress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DataDrivenTestMO.OrangeHRMLoginDD@5bcab519]" name="tearDown" is-config="true" duration-ms="895" started-at="2020-03-09T10:05:37Z" finished-at="2020-03-09T10:05:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DataDrivenTestMO.OrangeHRMLoginDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
